@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-notes",
+  "version": "1.0.0",
+  "description": "my node notes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedsamir9/BackEnd-Assignments.git"
+  },
+  "author": "Ahmed samir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedsamir9/BackEnd-Assignments/issues"
+  },
+  "homepage": "https://github.com/ahmedsamir9/BackEnd-Assignments#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
